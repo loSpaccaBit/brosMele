@@ -1,0 +1,13 @@
+{
+    "resources": [
+        "../../assets/sounds/collect-coin-sound.ogg",
+        "../../assets/sounds/collect-coin-sound.m4a"
+    ],
+    "spritemap": {
+        "collect-coin2": {
+            "start": 0,
+            "end": 0.23,
+            "loop": false
+        },
+    },
+}
